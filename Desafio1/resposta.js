@@ -14,3 +14,4 @@ if (imc >= 30){
 }if (imc < 29.9) {
     console.log('Você não esta acima do peso')
 }
+ss
